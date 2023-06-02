@@ -7,8 +7,9 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="auto"
+	mode="toggle"
 	useCDN=false
+	customcss=["css/newdark.css", "css/newlight.css"]
 	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
 [[menu.main]]
