@@ -1,7 +1,7 @@
 ---
 title: "The Grand Chessboard of 1997; Or, The World According to America"
 description: "Is the Grand Chessboard by Zbigniew Brzeziński still worth reading after more than 25 years? This review explores its continued relevance in 2023."
-date: 2023-05-28
+date: 2023-05-28 
 tldr: "The world has changed, but not that much. Brzeziński's analysis provides useful insight into the world of yesterday and of today."
 tags: [2023, Books, Nonfiction, Politics]
 draft: false
@@ -16,3 +16,5 @@ Brzeziński's analysis is necessarily out-of-date. Again, this is advantageous i
 Interestingly, Brzezinski is also skeptical of China’s succession to a world power status. Largely this skepticism has proved false so far as China now holds the second largest economy, and is undoubtedly a ‘world power’ by any other measure. What he does seem to get right though is that China continues to have trouble making committed alliances in its own region with major players like Japan and South Korea which continue to prefer America. Additionally, China does continue to be a ‘developing’ economy with large portions of its population living in poverty. This doesn’t really, in my opinion, undermine its status as a world power at this point. Prior to reading this, I had not properly considered the regional instability of Asia. It is, I think, easy to see the developed-ness of Japan, South Korea, Taiwan and Singapore, and the rapid economic approach of other nations like Vietnam and China, and take these successes as a sign of stability. According to Brzezinski, however, the rapidity of development, ongoing border conflicts, and the continued uncertainty of whether a Western or Eastern hegemon will prevail is illustrative of ongoing power negotiations in the region that have the potential to erupt. 
 
 Above the relevance of the analysis today, the value of The Grand Chessboard lies primarily in the prominence of Brzeziński as a political actor. The analysis presented in this book is prescient because it is the analysis which has informed the decisions of former and current leaders. It is right not just because Brzeziński is a skilled analyst, but because he has had the power to ensure that decisions are made using his perspective. Therefore, I do think that this book continues to be worth a read even as the global political landscape has transformed. A quarter of a century in geopolitics is both a long-time and not that long at all. I think you'll find it more relevant than most would expect.
+
+{{< chat grandChessboard-comments >}}

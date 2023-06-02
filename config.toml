@@ -7,8 +7,6 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-"disqusShortname"="specual"
-
 paginate=5
 
 [params]

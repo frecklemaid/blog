@@ -13,3 +13,5 @@ Reader engagement is kept throughout the novel as we remain eager to understand 
 An interesting element in the story is the vegetarianism of humans which contrasts the meat-consumption of the ogres. According to this, the humans are considered incapable of digesting meat and it remains the exclusive pleasure of the ogres. Putting aside the animal rights implications of meat consumption, this distinction serves to create an animalistic air about the ogres where the humans are pacified, and subservient. The very nature of the human as a predator species is undermined, further personified by the passivity of the masses at their mistreatment. Beyond the size difference between the ogres and humans, this provided a clear distinction in the nature of the ogres as violent and oppressive.  
 
 This novella has social commentary, fantasy intrigue and a not-too-shabbily developed main character, what's more to like? 
+
+{{< chat ogres-comments >}}

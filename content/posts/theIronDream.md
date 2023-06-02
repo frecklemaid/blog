@@ -17,3 +17,5 @@ The Iron Dream fully embeds the reader in the mindset of its Hitler such that yo
 The Lord of the Swastika ends with humanity preserved through the destruction of anything resembling natural reproduction or community. Following Feric, the people voluntarily castrate themselves in favour of cloning all-male, idealised versions of the SS so as to ensure the genetic purity of the human race. This 'final solution' to the problem of genomic impurity in the irradiated world is a deeply inhuman one. Feric's clone-fueled future erases women entirely following the absence of a single named female character throughout the book. And, according to Feric's self-conception of perfection, the final scene involves the launching of his seed, his genetic material, to space to populate the stars. The pursuit of genetic purity is thus shown to be both a narcissistic and inherently misanthropic aim.
 
 Highly recommend picking this up if you're looking for a unique classic science/weird fiction novel.
+
+{{< chat ironDream-comments >}}

@@ -25,3 +25,5 @@ The second half of the book is where the real meat of the novel lies. Prior to K
 
 ## Concluding Remarks
 I do not expect a text from over 50 years ago to necessarily meet the standards of today in terms of female characterisation. However, ‘A Time of Changes’ was more distractingly infuriating than fiction far its senior. I simply don’t believe that being published in 1971 is an excuse for the extent of objectification, nor do I think that it is justified by any sort of literary intent. Kinnal remains selfish, narcissistic and unlikeable throughout the book with little literary satisfaction for the reader that could justify it. While I can't speak from experience in evaluating its representation of psychedelic use, I don't think this could possibly be best fictional place to read about it. Silverberg can clearly write well so I'd be willing to give him another shot, but I give this one a hard pass.
+
+{{< chat timeOfChanges-comments >}}
