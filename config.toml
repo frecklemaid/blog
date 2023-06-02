@@ -1,4 +1,4 @@
-baseURL = 'http://specual.github.io/'
+baseURL = 'https://frecklemaid.github.io/'
 languageCode = 'en-us'
 title = 'Specual'
 theme = "archie"
