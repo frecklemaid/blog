@@ -6,11 +6,18 @@ copyright = "© Frecklemaid"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
+paginate=5
+
 [params]
-	mode="toggle"
+	mode="auto"
 	useCDN=false
-	customcss=["css/newdark.css", "css/newlight.css"]
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Book reviews, commentary and more."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/frecklemaid"
 
 [[menu.main]]
 name = "Home"
