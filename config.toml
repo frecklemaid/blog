@@ -1,6 +1,6 @@
-baseURL = 'https://specual.me/'
-languageCode = 'en-us'
-title = 'Specual'
+baseURL = "https://specual.me/"
+languageCode = "en-us"
+title = "Specual"
 theme = "archie"
 copyright = "© Frecklemaid"
 pygmentsstyle = "monokai"
@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 paginate=5
 
 [params]
-	mode="auto"
+	mode="toggle"
 	useCDN=false
 	subtitle = "Book reviews, commentary and more."
 
@@ -18,6 +18,16 @@ paginate=5
 name = "GitHub"
 icon = "github"
 url = "https://github.com/frecklemaid"
+
+[[params.social]]
+name="Goodreads"
+icon="goodreads"
+url="https://www.goodreads.com/user/show/33340133-mackenzie"
+
+[[params.social]]
+name="Storygraph"
+icon="storygraph"
+url="https://app.thestorygraph.com/profile/mfletcher"
 
 [[menu.main]]
 name = "Home"
@@ -27,12 +37,12 @@ weight = 1
 [[menu.main]]
 name = "All posts"
 url = "/posts"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Tags"

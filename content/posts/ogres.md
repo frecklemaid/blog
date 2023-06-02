@@ -2,9 +2,8 @@
 title: "Ogres by Adrian Tchaikovsky - Suprisingly political?"
 description: "Review of Ogres by Adrian Tchaikovsky, a surprisingly political little fantasy novella."
 date: 2023-04-01
-tldr: (optional)
 draft: false
-tags: [2023, Fantasy]
+tags: [2023, Fantasy, Books]
 ---
 
 'Ogres' is a novella by sci-fi and fantasy megalith, Adrian Tchaikovsky. The world juxtaposes normal, common humanity with the ruling Ogre class. Larger than everyone else, the ogres rule by inherent genetic 'supremacy' in a feudal-esque steampunk setting. After killing his feudal landlords son, Torquell, larger and stronger than most other humans, is on the run. Eventually his time in imprisonment and servitude sees him discover a chilling truth about the nature of the world, and the origin of the ogres.
