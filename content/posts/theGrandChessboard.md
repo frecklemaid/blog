@@ -1,7 +1,7 @@
 ---
 title: "The Grand Chessboard of 1997; Or, The World According to America"
 description: "Is the Grand Chessboard by Zbigniew Brzeziński still worth reading after more than 25 years? This review explores its continued relevance in 2023."
-data: 2023-28-05
+date: 2023-05-28
 tldr: "The world has changed, but not that much. Brzeziński's analysis provides useful insight into the world of yesterday and of today."
 tags: [2023, Books, Nonfiction, Politics]
 draft: false

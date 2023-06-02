@@ -1,7 +1,7 @@
 ---
 title: "Ogres by Adrian Tchaikovsky - Suprisingly political?"
 description: "Review of Ogres by Adrian Tchaikovsky, a surprisingly political little fantasy novella."
-date: 2023-04-01
+date: 2023-05-27
 draft: false
 tags: [2023, Fantasy, Books]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "What happens when you stop loving YA?"
 description: "Tips and reflections for moving on from Young Adult and exploring the wider world of literature when YA is no longer doing it for you."
-date: 2023-26-05
+date: 2023-05-26
 draft: false
 tldr: "Life after YA will not only be ok, but can be truly exciting."
 tags: [2023, Tips, Books]
@@ -12,17 +12,17 @@ For me, my love of young adult started to wane when I was around 16. The tropes 
 
 Without further ado, here are some tips to make this transition a little bit easier:
 
-    <h2>Identify what adult genres correspond to your YA preferences.</h2>
-    For me, this was science fiction and fantasy – or speculative fiction in general. I had always loved a good dystopian and this didn’t change when I moved toward exploring adult literature. If for you, that great love is romance, then it could be time to explore some adult romance novels.
+## Identify what adult genres correspond to your YA preferences.
+For me, this was science fiction and fantasy – or speculative fiction in general. I had always loved a good dystopian and this didn’t change when I moved toward exploring adult literature. If for you, that great love is romance, then it could be time to explore some adult romance novels.
 
-    <h2>The world of Adult books is much larger than that of YA.</h2>
-    I’ll be working from my own preferences here, but in science fiction, for example, the young adult space is dominated by dystopias that broadly lack the depth of adult dystopia. All the more, ‘adult’ speculative fiction has hundreds of subgenres, many of which are either absent from the YA space, or have features that are applied as speculative tropes in what is otherwise a romance book. While the sheer greater volume of books you’re now aware of can be daunting, it can also be really exciting when you discover a niche that you simply did not have access to in YA.
+## The world of Adult books is much larger than that of YA.
+I’ll be working from my own preferences here, but in science fiction, for example, the young adult space is dominated by dystopias that broadly lack the depth of adult dystopia. All the more, ‘adult’ speculative fiction has hundreds of subgenres, many of which are either absent from the YA space, or have features that are applied as speculative tropes in what is otherwise a romance book. While the sheer greater volume of books you’re now aware of can be daunting, it can also be really exciting when you discover a niche that you simply did not have access to in YA.
 
-    <h2>Discover the classics.</h2>
-    This can be the classics of your favourite genres, identified by the endless listicles and amazing book reviewers you can find online. Or, this can include the classics of various literary canons. In general, I have found that these books are considered classics for a reason, and I am yet to read a book considered a ‘classic’ without being able to understand why it retains significance and popularity. However, while classics have ended up doing it for me, they may not be for you! It is absolutely okay to decide that you want to stick on the emerging end of things, but don’t be afraid to give classics a shot.
+## Discover the classics.
+This can be the classics of your favourite genres, identified by the endless listicles and amazing book reviewers you can find online. Or, this can include the classics of various literary canons. In general, I have found that these books are considered classics for a reason, and I am yet to read a book considered a ‘classic’ without being able to understand why it retains significance and popularity. However, while classics have ended up doing it for me, they may not be for you! It is absolutely okay to decide that you want to stick on the emerging end of things, but don’t be afraid to give classics a shot.
 
-    <h2>You don’t have to stop loving your old favourites. But you may not want to reread them.</h2>
-    There are many books that I have deeply fond memories of, that I am fairly certain I would not like on reread now that I’m a bit older. That doesn’t mean these books are bad, but that I am no longer the intended reader. For this reason, there are some books that I will simply never reread, but there are others that I continue to stand by and truly enjoy. You may find over time that your old favourites have moved aside in your heart a little bit, and that’s ok. You can and will find new treasures for the next season of your life. 
+## You don’t have to stop loving your old favourites. But you may not want to reread them.
+There are many books that I have deeply fond memories of, that I am fairly certain I would not like on reread now that I’m a bit older. That doesn’t mean these books are bad, but that I am no longer the intended reader. For this reason, there are some books that I will simply never reread, but there are others that I continue to stand by and truly enjoy. You may find over time that your old favourites have moved aside in your heart a little bit, and that’s ok. You can and will find new treasures for the next season of your life. 
 
- For me, the transition away from YA has been both daunting and extremely rewarding. Hopefully the tips given here have been helpful for anyone embarking on this journey, or at least that my positivity has been reassuring. Comment below if you have anything to say about your own experiences falling out of love with a particular genre or age-category like Young Adult! 
+For me, the transition away from YA has been both daunting and extremely rewarding. Hopefully the tips given here have been helpful for anyone embarking on this journey, or at least that my positivity has been reassuring. Comment below if you have anything to say about your own experiences falling out of love with a particular genre or age-category like Young Adult! 
 

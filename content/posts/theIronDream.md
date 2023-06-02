@@ -1,7 +1,7 @@
 ---
 title: "What if Hitler had written sci-fi? - The Iron Dream by Norman Spinrad"
 description: "Review of Scifi classic 'The Iron Dream' by Norman Spinrad, which asks us what an alternate-history Hitler would have written."
-date: 2023-27-05
+date: 2023-05-27
 tldr: "Weird yet winful satire of Nazism from the 20th for the 21st century."
 draft: false
 tags: [Science Fiction, Books, 2023]
