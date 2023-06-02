@@ -7,12 +7,14 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+"disqusShortname"="specual"
+
 paginate=5
 
 [params]
 	mode="toggle"
 	useCDN=false
-	subtitle = "Book reviews, commentary and more."
+	subtitle = "Speculative and nonfiction book reviews."
 
 [[params.social]]
 name = "GitHub"
@@ -21,12 +23,12 @@ url = "https://github.com/frecklemaid"
 
 [[params.social]]
 name="Goodreads"
-icon="goodreads"
+icon="book"
 url="https://www.goodreads.com/user/show/33340133-mackenzie"
 
 [[params.social]]
 name="Storygraph"
-icon="storygraph"
+icon="book-open"
 url="https://app.thestorygraph.com/profile/mfletcher"
 
 [[menu.main]]
