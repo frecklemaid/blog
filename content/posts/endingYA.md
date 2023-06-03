@@ -26,4 +26,4 @@ There are many books that I have deeply fond memories of, that I am fairly certa
 
 For me, the transition away from YA has been both daunting and extremely rewarding. Hopefully the tips given here have been helpful for anyone embarking on this journey, or at least that my positivity has been reassuring. Comment below if you have anything to say about your own experiences falling out of love with a particular genre or age-category like Young Adult! 
 
-{{< chat ya-comments>}}
+{{< chat ya-comments >}}

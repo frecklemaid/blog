@@ -14,6 +14,10 @@ paginate=5
 	useCDN=false
 	subtitle = "Speculative and nonfiction book reviews."
 
+[Author]
+	name="Mackenzie Fletcher"
+	email="fqaouwsst@mozmail.com"
+
 [[params.social]]
 name = "GitHub"
 icon = "github"
@@ -28,6 +32,11 @@ url="https://www.goodreads.com/user/show/33340133-mackenzie"
 name="Storygraph"
 icon="book-open"
 url="https://app.thestorygraph.com/profile/mfletcher"
+
+[[params.social]]
+name="Subscribe to RSS"
+icon="rss"
+url="https://specual.me/index.xml"
 
 [[menu.main]]
 name = "Home"
