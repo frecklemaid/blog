@@ -1,9 +1,9 @@
 ---
-description: "Is this a good introduction to Judaism (for the ignorant gentile)? Read this review to find out."
 title: "Judaism: A Very Short Introduction by Norman Solomon"
-tldr: "Not recommended without pre-existing familiarity with Judaism"
+description: "Is this a good introduction to Judaism (for the ignorant gentile)? Read this review to find out."
 date: 2023-06-09
 tags: [2023, Books, Nonfiction]
+tldr: "Not recommended without pre-existing familiarity with Judaism"
 draft: false 
 ---
 
