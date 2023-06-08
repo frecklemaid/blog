@@ -1,6 +1,6 @@
 ---
 title: Berlin Stories by Robert Walser 
-description:
+description: 'Review of a delightful prose collection covering the joy of the vibrant early 20th century metropolis.'
 date: 2023-06-06
 tldr: Read this collection. 
 draft: false
