@@ -1,7 +1,7 @@
 baseURL = "https://specual.me/"
 languageCode = "en-us"
 title = "Specual"
-theme = "archie"
+theme = "arky"
 copyright = "© Frecklemaid"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
