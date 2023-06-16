@@ -1,7 +1,7 @@
 ---
 Title: Elle et son chat by Makoto Shinkai (trans. Naruki Nakagawa)
 Description: “A collection of cozy interconnected stories from the perspective of cats and their people in Tokyo, ‘Elle et son chat’ (She and her cat) by Makoto Shinkai is well worth a read.”
-Date: 2023-16-06
+Date: 2023-06-16
 Tags: [Books, Fiction, French, Speculative]
 tldr: “Wonderful, cozy vibes.”
 Draft: false
