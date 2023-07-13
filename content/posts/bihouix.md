@@ -1,15 +1,15 @@
 ---
-Title: ‘L’Âge des low-tech by Philippe Bihouix’
-Description: ‘In the French school of degrowth environmentalists, Bihouix explores the problems with technological innovation as a solution to resource overconsumption and mismanagement in the anthropocene and posits that a reduction in technological complexity is the sole solution to our environmental woes.’
-Date: 07-12-2023
-TLDR: ‘A fascinating look into technologically skeptical environmental strategy.’
+Title: L’Âge des low-tech by Philippe Bihouix
+Description: In the French school of degrowth environmentalists, Bihouix explores the problems with technological innovation as a solution to resource overconsumption and mismanagement in the anthropocene and posits that a reduction in technological complexity is the sole solution to our environmental woes.
+Date: 2023-07-12
+TLDR: A fascinating look into technologically skeptical environmental strategy.
 Tags: [Nonfiction, French, Environment, Books, 2023]
 Draft: false
 ---
 
 [‘L’Âge des Low-Tech’](*) or ‘The Age of Low Tech’ by Philippe Bihouix asks the question: Can we out-think our consumption of resources? According to Bihouix, the answer is a resounding no. No amount of technological innovation will be able to support the technologically complex lifestyles we now prefer. In the face of anthropogenic environmental impacts, Bihouix posits that our prime solution lies not in technological innovations which shift to alternate environmental impacts, but in the technical simplifcation of our societies. In this, he believes more jobs will be sustained long-term, people will be able to live healthier lives and (perhaps) most importantly – we will be able to dramatically reduce our environmental impact whilst allowing all of humanity to maintain a decent quality of life. 
 
-Bihouix’s exploration of ‘promising’ new technologies such as electric vehicles and natural gas are fascinating and a good antidote to the likes of Jordan Peterson who believe that [innovation will be able to save use in the end](*). He ruthlessly examines the potential environmental impacts of these technologies and discusses their general incompatibility with long-term environmentalist goals. This take-down is, in my opinion, necessary if we are to look to some proper changes and goal-setting. However, I’m no expert in any of the fields he spoke about so I can’t really evaluate the validity of his research beyond it sounding about right. 
+Bihouix’s exploration of ‘promising’ new technologies such as electric vehicles and natural gas are fascinating and a good antidote to the likes of Jordan Peterson who believe that [innovation will be able to save use in the end](https://www.youtube.com/watch?v=WNgZWSSsBE4). He ruthlessly examines the potential environmental impacts of these technologies and discusses their general incompatibility with long-term environmentalist goals. This take-down is, in my opinion, necessary if we are to look to some proper changes and goal-setting. However, I’m no expert in any of the fields he spoke about so I can’t really evaluate the validity of his research beyond it sounding about right. 
 
 Bihouix’s solution – a world of low tech – is nothing if not thought-provoking. He does not aim to provide solutions or explanations that can satisfy everything. However, the broad outline he does give is mostly more realistic than fanciful whilst still maintaining a bit of cottage-core appeal. I was already critical of my own consumerist behaviours (particularly when it comes to tech), but this book made me think not only more deeply about my own behaviours but also broader cultural changes that would need to take place if we were to enter an age of ‘low-tech’. Thinking about the necessary cultural changes made it a little harder to entertain this as a probable solution though. It’s not really the fault of Bihouix’s vision that we are unlikely to follow it. 
  

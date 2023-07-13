@@ -1,8 +1,8 @@
 ---
-Title: ‘The Harlem Renaissance, Edited by Cary D. Wintz’
-Description: 'Review of anthology and historical context of the Harlem Renaissance, an interwar African-American literary movement.'
-Date: 06-29-2023
-TLDR: ‘An unassuming introduction that is worth a look for those wanting to explore.’
+Title: The Harlem Renaissance, Edited by Cary D. Wintz
+Description: Review of anthology and historical context of the Harlem Renaissance, an interwar African-American literary movement.
+Date: 2023-06-29
+TLDR: An unassuming introduction that is worth a look for those wanting to explore.
 Tags: [Books, 2023, Nonfiction, History] 
 Draft: false
 ---
