@@ -1,11 +1,12 @@
 ---
-Title: The Harlem Renaissance, Edited by Cary D. Wintz
-Description: Review of anthology and historical context of the Harlem Renaissance, an interwar African-American literary movement.
-Date: 2023-06-29
-TLDR: An unassuming introduction that is worth a look for those wanting to explore.
-Tags: [Books, 2023, Nonfiction, History] 
-Draft: false
+title: "The Harlem Renaissance, Edited by Cary D. Wintz"
+description: "Review of anthology and historical context of the Harlem Renaissance, an interwar African-American literary movement."
+date: 2023-06-29
+tldr: "An unassuming introduction that is worth a look for those wanting to explore."
+tags: [Books, 2023, Nonfiction, History]
+draft: false
 ---
+
 ‘The Harlem Renaissance’ provides a keen look into the interwar African-American literary movement after which it is titled. Wintz provides both a history and anthology of key pieces from the movement in his efforts to provide a comprehensive overview of the historical key authors and themes. I will attempt in this review to address primarily the efforts of Wintz and not the writers which he included in the anthology that made up the bulk of the book. Importantly, I’m no expert in the Harlem Renaissance so my judgement is based solely on how I perceived this book. I am also not considered a POC by today’s standards and my understanding of race is thus informed. 
 
 ## Efforts of the Editor 
